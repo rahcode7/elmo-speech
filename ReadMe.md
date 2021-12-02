@@ -1,5 +1,4 @@
-## Assignment 2 , Advanced NLP
-## Roll No - 2020900039
+### Trained ELMO embeddings on SWB Speech Corpus from scratch
 
 
 ### Directory Structure 
